@@ -1,3 +1,7 @@
+layout: page
+title: "Introduction à l'API"
+permalink: /introduction
+
 # Abraxio APIs - Généralités 
 
 Les API proposées sur la plateforme sont disponibles gratuitement jusqu'au **31/10/2024** inclus.
